@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="520" viewBox="0 0 760 520">
+  <rect width="760" height="520" rx="8" fill="#F5F7FA" stroke="#CBD5E1" stroke-width="2"/>
+  <rect width="760" height="36" rx="8" fill="#1E293B"/>
+  <text x="16" y="23" font-family="Segoe UI, sans-serif" font-size="13" fill="#FFFFFF" font-weight="bold">YMH219 - Key Event Logger (Yalnızca Uygulama Penceresi)</text>
+  <text x="20" y="68" font-family="Segoe UI, sans-serif" font-size="15" fill="#16A34A" font-weight="bold">● Kayıt Durumu: AKTİF (Dinleniyor)</text>
+  <rect x="20" y="84" width="110" height="34" rx="4" fill="#86EFAC"/>
+  <text x="52" y="106" font-family="Segoe UI, sans-serif" font-size="13" fill="#FFFFFF" font-weight="bold">Başlat</text>
+  <rect x="140" y="84" width="110" height="34" rx="4" fill="#C0392B"/>
+  <text x="172" y="106" font-family="Segoe UI, sans-serif" font-size="13" fill="#FFFFFF" font-weight="bold">Durdur</text>
+  <rect x="260" y="84" width="110" height="34" rx="4" fill="#6C757D"/>
+  <text x="290" y="106" font-family="Segoe UI, sans-serif" font-size="13" fill="#FFFFFF" font-weight="bold">Temizle</text>
+  <rect x="380" y="84" width="130" height="34" rx="4" fill="#2563EB"/>
+  <text x="410" y="106" font-family="Segoe UI, sans-serif" font-size="13" fill="#FFFFFF" font-weight="bold">.txt Kaydet</text>
+  <text x="20" y="142" font-family="Segoe UI, sans-serif" font-size="12" fill="#334155">Test Yazım Alanı (Bu pencere odaktayken yazın):</text>
+  <rect x="20" y="150" width="720" height="30" rx="4" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.5"/>
+  <text x="30" y="170" font-family="Segoe UI, sans-serif" font-size="13" fill="#0F172A">YMH219 test|</text>
+  <text x="20" y="204" font-family="Segoe UI, sans-serif" font-size="12" fill="#334155">Yakalanan Tuş Olayları (KeyDown / KeyUp):</text>
+  <rect x="20" y="214" width="720" height="250" rx="4" fill="#FFFFFF" stroke="#CBD5E1"/>
+  <text x="30" y="240" font-family="Consolas, monospace" font-size="12" fill="#0F172A">[14:32:05.112] KeyDown | Tuş: Y            (Kod: 89) [Mod: Shift]</text>
+  <text x="30" y="264" font-family="Consolas, monospace" font-size="12" fill="#475569">[14:32:05.198] KeyUp   | Tuş: Y            (Kod: 89)</text>
+  <text x="30" y="288" font-family="Consolas, monospace" font-size="12" fill="#0F172A">[14:32:05.310] KeyDown | Tuş: M            (Kod: 77) [Mod: Shift]</text>
+  <text x="30" y="312" font-family="Consolas, monospace" font-size="12" fill="#475569">[14:32:05.390] KeyUp   | Tuş: M            (Kod: 77)</text>
+  <text x="30" y="336" font-family="Consolas, monospace" font-size="12" fill="#0F172A">[14:32:05.502] KeyDown | Tuş: H            (Kod: 72) [Mod: Shift]</text>
+  <text x="30" y="360" font-family="Consolas, monospace" font-size="12" fill="#475569">[14:32:05.588] KeyUp   | Tuş: H            (Kod: 72)</text>
+  <text x="20" y="494" font-family="Segoe UI, sans-serif" font-size="12" fill="#374151" font-weight="bold">Toplam Olay: 6 | En çok basılanlar: H (1), M (1), Y (1)</text>
+</svg>
